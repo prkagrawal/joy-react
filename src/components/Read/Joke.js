@@ -2,17 +2,14 @@ import React from 'react';
 import axios from 'axios';
 
 const Joke = (props) => {
-	// props.setJokes(props.jokes);
 	return(
 
 		<div className="joke-container">
-			<span className="setup"> Setup : {props.jokes.setup}</span>
+			<div className="setup"> Setup : {props.jokes.setup}</div>
 			<br/>
-			<span className="delivery"> Delivery : {props.jokes.delivery}</span>
+			<div className="delivery"> Delivery : {props.jokes.delivery}</div>
 		</div>
 	)
 }
 
 export default Joke;
-
-// https://sv443.net/jokeapi/v2/joke/Any?type=twopart
