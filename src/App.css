@@ -3,7 +3,9 @@
 	padding: 0;
 	box-sizing: border-box;
 }
-
+body{
+	background-color: #efefef;
+}
 /*------------------Navbar----------------
 ----------------------------------------*/
 .header{
@@ -11,7 +13,7 @@
 }
 .side-nav{
 	height: 100%;
-	width: 200px;
+	width: 250px;
 	position: fixed;
 	z-index: 1;
 	top: 60px;
@@ -21,7 +23,7 @@
 	padding-top: 50px;
 }
 .nav-link{
-	padding: 10px 10px 10px 30px;
+	padding: 10px 10px 10px 40px;
 	text-decoration: none;
 	font-size: 25px;
 	color: #707070;
@@ -29,6 +31,8 @@
 	transition: 0.25s;
 }
 .burger-icon{
+	margin-left: 20px;
+
 	height: 60px;
 	width: 60px;
 	position: absolute;
@@ -60,4 +64,15 @@
 }
 .lead{
 	
+}
+
+/*------------Home-----------------------
+----------------------------------------*/
+.container{
+	width: 100%;
+	max-width: 900px;
+	height: 100vh;
+	margin: 0 auto;
+	padding: 100px 30px;
+	background-color: #e8e8e8;
 }

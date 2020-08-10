@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom'
 import Burger from './Burger';
 import TopNav from './TopNav';
 
