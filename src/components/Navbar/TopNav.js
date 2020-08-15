@@ -2,7 +2,7 @@ import React from 'react';
 
 const TopNav = () => (
 	<div className="top-nav">
-		<span className="lead">Enjoy React</span>
+		<span className="logo">JOKE READER</span>
 	</div>
 );
 
