@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joy-react/static/css/main.74309904.chunk.css",
+    "main.js": "/joy-react/static/js/main.453cb77e.chunk.js",
+    "main.js.map": "/joy-react/static/js/main.453cb77e.chunk.js.map",
+    "runtime-main.js": "/joy-react/static/js/runtime-main.39aed7bf.js",
+    "runtime-main.js.map": "/joy-react/static/js/runtime-main.39aed7bf.js.map",
+    "static/js/2.77b29d28.chunk.js": "/joy-react/static/js/2.77b29d28.chunk.js",
+    "static/js/2.77b29d28.chunk.js.map": "/joy-react/static/js/2.77b29d28.chunk.js.map",
+    "index.html": "/joy-react/index.html",
+    "precache-manifest.b178f40803cbca20846bcdf6d02bf9eb.js": "/joy-react/precache-manifest.b178f40803cbca20846bcdf6d02bf9eb.js",
+    "service-worker.js": "/joy-react/service-worker.js",
+    "static/css/main.74309904.chunk.css.map": "/joy-react/static/css/main.74309904.chunk.css.map",
+    "static/js/2.77b29d28.chunk.js.LICENSE.txt": "/joy-react/static/js/2.77b29d28.chunk.js.LICENSE.txt",
+    "static/media/b1.png": "/joy-react/static/media/b1.b0849a61.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39aed7bf.js",
+    "static/js/2.77b29d28.chunk.js",
+    "static/css/main.74309904.chunk.css",
+    "static/js/main.453cb77e.chunk.js"
+  ]
+}
